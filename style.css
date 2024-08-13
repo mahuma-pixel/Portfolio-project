@@ -1,0 +1,16 @@
+.main{ background-color: black;
+text-align: center;}
+.specialty { color:#62CFAA !important; }
+h1{padding-bottom: 0px;
+font-weight: bolder;
+color:#62CFAA !important;}
+.motto{padding-top: 0px ;
+margin-top: 0;
+color: white;}
+
+img{ width: 300px;
+height: 250px;
+border-radius: 4px;}
+.row {color: white ;}
+a{text-decoration: none;}
+.nav-link{ color: white;}
