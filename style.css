@@ -47,7 +47,20 @@ margin-top: 100px;}
 .facebook {margin-right: 20px; margin-left: 400px;}
 .instagram  {margin-right: 20px; }
 .linkedin  {margin-right: 20px;}
-.link{text-align: start;}
+.list{
+    text-align: center;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+font-size: 30px;
+text-decoration: none;
+color: #1F1F1F;}
+
 .footer{text-align: center}
 .statement{ border-radius: 4px;
 border-color: #555F5E !important;}
+.roboto-bold {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
