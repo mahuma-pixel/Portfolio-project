@@ -64,3 +64,12 @@ border-color: #555F5E !important;}
     font-weight: 700;
     font-style: normal;
   }
+ 
+
+.montserrat-main {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: normal;
+}
+h6{font-size: 30px;}
