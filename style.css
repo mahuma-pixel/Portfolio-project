@@ -29,8 +29,8 @@ color: var(--p-color) ;}
 p{font-size: 100px;
 text-align: left;}
 
-img{ width: 500px;
-height: 450px;
+img{ width: 350px;
+height: 300px;
 border-radius: 4px;}
 .row {margin-top: 50px;
     color: var(--secondary-color);}
@@ -44,7 +44,7 @@ margin-top: 100px;}
 .navbar{margin-bottom: 50px;}
 .container{ margin-top: 40px;}
 
-.facebook {margin-right: 20px; margin-left: 510px;}
+.facebook {margin-right: 20px; margin-left: 400px;}
 .instagram  {margin-right: 20px; }
 .linkedin  {margin-right: 20px;}
 .link{text-align: start;}
