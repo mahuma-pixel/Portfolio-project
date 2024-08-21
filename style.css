@@ -1,18 +1,51 @@
-.main{ background-color: black;
+:root{--background-color: #C3B1E1;
+--primary-color:#013365;
+--secondary-color: #1F1F1F ;
+--p-color:#555F5E;}
+.main{ background-color: var(--background-color);
 text-align: center;}
-.specialty { color:#62CFAA !important; }
-h1{padding-bottom: 0px;
+.specialty { color: var(--primary-color) !important; }
+.primary-heading{
 font-weight: bolder;
-color:#62CFAA !important;}
+color:var(--primary-color) !important;
+font-size: 60px;
+margin-bottom: 0px;
+padding-bottom: 0px;}
+.primary-heading-home{
+    font-weight: bolder;
+    color:var(--primary-color) !important;
+font-size: 100px;
+margin-bottom: 0px;
+padding-bottom: 0px;}
+em{font-weight: 900;}
 .motto{padding-top: 0px ;
-margin-top: 0;
-color: white;}
+margin-top: 0px;
+color: var(--p-color) ;}
+.motto-home{padding-top: 0px ;
+    margin-top: 0px;
+    color:var(--p-color) ;
+}
+.con-1 {margin-bottom: 40px;}
+p{font-size: 100px;
+text-align: left;}
 
-img{ width: 300px;
-height: 250px;
+img{ width: 500px;
+height: 450px;
 border-radius: 4px;}
-.row {color: white ;}
-a{text-decoration: none;}
+.row {margin-top: 50px;
+    color: var(--secondary-color);}
+a{text-decoration: none;
+padding: 60px auto !important;
+margin-top: 40px;
+margin-bottom: 40px;}
 .nav-link{ color: white;}
 footer{ text-align: left;
 margin-top: 100px;}
+.navbar{margin-bottom: 50px;}
+.container{ margin-top: 40px;}
+
+.facebook {margin-right: 20px; margin-left: 510px;}
+.instagram  {margin-right: 20px; }
+.linkedin  {margin-right: 20px;}
+.link{text-align: start;}
+.footer{text-align: center}
